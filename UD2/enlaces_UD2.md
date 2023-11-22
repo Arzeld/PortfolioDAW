@@ -1,7 +1,7 @@
 # Enlaces
 
 ### Equipo HAM
-> [Enlace a github](https://github.com/Arzeld/PortfolioDAW/blob/main/UD1/Ejercicios/Equipo%20HAM.md)
+> [Enlace a github](https://github.com/Arzeld/PortfolioDAW/blob/main/UD2/Ejercicios/Equipo%20HAM.md)
 
 > [Enlace a la tarea](https://classroom.google.com/c/NjIwOTMzNTMyNTU3/a/NjIzNDQzMjYzNjgz/details)
 
