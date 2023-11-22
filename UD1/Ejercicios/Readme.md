@@ -1,9 +1,3 @@
-/En desarrollo/
-
-Redacta el document "Readme.md", creat amb github, on mostre les diferents funcions de github amb els passos a seguir y aquella informació que consideres rellevant.
-
-Déu contenir al menys:
-
 # Biblia para no olvidar el uso de github
 ### Archivo hecho por MQA
 
